@@ -1,13 +1,1 @@
-lsi: false
-safe: true
-source: encryptedsarah
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
-  theme: jekyll-theme-minimal
-  title: EncryptedSarah's homepage
-  description: Welcome to my website!
+theme: minima
