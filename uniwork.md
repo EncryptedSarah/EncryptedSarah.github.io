@@ -28,3 +28,25 @@ My assessment work can be found [here](https://encryptedsarah.github.io/coursewo
 **Grade:** A
 
 </details>
+
+<details markdown = 1>
+  <summary> CMP320 - Advanced Ethical Hacking</summary>
+  
+**Overview**
+The Advanced Ethical Hacking module focused on using scripting to automate hacking and cybersecurity processes, as well as the tools and techniques used in malware analysis.
+
+**Malware Analysis Assessment**
+Worth 30% of CMP320's final grade, the malware analysis assessment involved using appropriate malware analysis tools and techniques to analyse a malicious sample, and to then provide the findings with a write up in the format of a white paper report. My report covers the investigation of a WannaCry payload.
+My report can be found [here](https://encryptedsarah.github.io/coursework/CMP320_SGardiner_Malware_Analysis_Report.pdf)
+
+**Grade:** A
+
+**Scripting Assessment**
+The scripting assessment in CMP320 involved creating a script that included some aspect of Ethical Hacking, Digital Forensics, or Network Security.
+For my project, I chose to create a script that could parse through Python code and detect possibly malicious lines of code. Named 'Snake', this script allows for developers to check that libraries they are downloading using Pip are not malicious.
+My report on Snake can be found [here](https://encryptedsarah.github.io/coursework/SGardiner_CMP320_Report.pdf)
+The GitHub repository for Snake can be found [here](https://github.com/EncryptedSarah/snake)
+
+**Grade:** A+
+
+
