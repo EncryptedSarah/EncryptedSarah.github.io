@@ -12,7 +12,7 @@ subtitle: Here is some of the coursework I have completed while studying Ethical
 ## 3rd Year
 <details markdown = 1>
   <summary> CMP319 - Web Application Penetration Testing</summary>
- **Module overview**
+ **Overview**
 This module involved learning advanced techniques used by Ethical Hackers to examine the security of web applications. This involved looking critically at the technologies used by web apps and learning how to exploit common security vulnerabilities and bypass authentication mechanisms. The lab work included learning the following techniques:
   - Code injection.
   - Bypassing client side controls, through the manipulation of cookies and URL parameters.
