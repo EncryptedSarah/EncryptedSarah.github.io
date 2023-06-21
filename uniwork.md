@@ -23,7 +23,7 @@ This module involved learning advanced techniques used by Ethical Hackers to exa
 
 **Assessment**
 To conduct a comprehensive web application penetration test of a website, and to produce a document explaining your methodology, findings, and evaluation of the process. I was given a sample website, belonging to a fake pizza restaurant, alongside access to a test user account. To complete the assessment, I used the industry-standard OWASP Web Security Testing Guide alongside tools and techniques demonstrated in the lab work.
-My assessment work can be found [here] (https://encryptedsarah.github.io/coursework/SGardiner_CMP319_Web_App_Testing_Report.pdf).
+My assessment work can be found [here](https://encryptedsarah.github.io/coursework/SGardiner_CMP319_Web_App_Testing_Report.pdf)
 
 **Grade:** A
 
