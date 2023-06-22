@@ -72,3 +72,15 @@ The GitHub repository for Snake can be found [here](https://github.com/Encrypted
 
 **Grade:** A+
 
+</details>
+
+<details markdown = 1>
+<summary>CMP308 - Professional Project Planning and Prototyping</summary>
+
+**Overview:** This module focused on teaching professional project management concepts and their place within planning and development of a project. 
+
+**Assessment** Working within a team, the aim of CMP308's assessment was to create a client pitch presentation and a project plan report for our assigned project, which was to create a network health monitoring application. My areas of the report focused on documenting the change management plan, the communications management plan, the cost management plan, and the procurement management plan for the project.
+
+**Grade:** A+
+
+</details>
