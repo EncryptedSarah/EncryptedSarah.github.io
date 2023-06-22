@@ -3,23 +3,26 @@ layout: page
 title: My University Work
 subtitle: Here is some of the coursework I have completed while studying Ethical Hacking at Abertay University
 ---
-<details1 markdown = 1>
-  <summary> ##1st Year</summary>
 
-</details1>
 ## 1st Year
 
 
-<details1 markdown = 1>
-  <summary> ##2nd Year</summary>
+## 2nd Year
 
-</details1>
+## 3rd Year
+<details markdown = 1>
+  <summary> CMP209 - Software Development for Mobile Devices</summary>
 
-<details1 markdown = 1>
-  <summary> ##3rd Year</summary>
+  **Overview:** In CMP309, I learned the basics of app development for Android using Java. Throughout the semester, I used Android Studio to create Android applications for smart devices.
 
+  **Assessment:** The assessment involved creating an Android app that met a series of requirements related to industry-standard programming practices, and to deliver a presentation detailing the app's capabilities and features. To meet these requirements, I created an app that would allow users to upload food they had bought, which would then send periodic reminders to the user to eat the food before it went out of date. The app was created with the aim to prevent food waste and reduce money wasted on uneaten food.
 
-<details markdown = 2>
+**Grade:** A+
+  
+
+</details>
+
+<details markdown = 1>
   <summary> CMP319 - Web Application Penetration Testing</summary>
   
 **Overview:**
@@ -38,7 +41,7 @@ My assessment work can be found [here](https://encryptedsarah.github.io/coursewo
 
 </details>
 
-<details markdown = 2>
+<details markdown = 1>
   <summary> CMP320 - Advanced Ethical Hacking</summary>
   
 **Overview:**
@@ -57,8 +60,4 @@ My report on Snake can be found [here](https://encryptedsarah.github.io/coursewo
 The GitHub repository for Snake can be found [here](https://github.com/EncryptedSarah/snake)
 
 **Grade:** A+
-</details>
-</details1>
-
-
 
