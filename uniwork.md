@@ -11,7 +11,7 @@ subtitle: Here is some of the coursework I have completed while studying Ethical
 
 ## 3rd Year
 <details markdown = 1>
-  <summary> CMP209 - Software Development for Mobile Devices</summary>
+  <summary> CMP309 - Software Development for Mobile Devices</summary>
 
   **Overview:** In CMP309, I learned the basics of app development for Android using Java. Throughout the semester, I used Android Studio to create Android applications for smart devices.
 
@@ -19,6 +19,17 @@ subtitle: Here is some of the coursework I have completed while studying Ethical
 
 **Grade:** A+
   
+
+</details>
+<details markdown = 1>
+<summary> CMP314 - Computer Networking 2</summary>
+**Overview:**
+CMP314 focused on a wide veriety of networking concepts and introduced advanced technologies, methods, and protocols used by devices to communicate with eachother.
+
+**Assessment:**
+The assessment for this module involved conduscting a security evaluation of a network belonging to a fake company, Stark Inc. The requirements were to produce a report containing a detailed network diagram of the devices present on the network, a subnet table, an evaluation of any security weaknesses found, and a critical evaluation of the network design. My report for this assigment can be found [here](https://github.com/EncryptedSarah/encryptedsarah.github.io/blob/main/coursework/CMP314_SGardiner_Report.pdf)
+
+**Grade:** A
 
 </details>
 
