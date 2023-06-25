@@ -93,4 +93,6 @@ My role within the team was to help create the user interface of this app, which
 **Assessment:** Aside from delivering the network health monitoring app, the assessment for this module involved creating a presentation and report that detailed how the group had met the client's brief.
 My area of the report covered the methodology used when creating the user interface. The full report can be found [here](https://encryptedsarah.github.io/coursework/CMP311_SGardiner_Report.pdf)
 
+**Grade:** A+
+
 </details>
