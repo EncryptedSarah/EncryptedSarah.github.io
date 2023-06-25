@@ -77,10 +77,20 @@ The GitHub repository for Snake can be found [here](https://github.com/Encrypted
 <details markdown = 1>
 <summary>CMP308 - Professional Project Planning and Prototyping</summary>
 
-**Overview:** This module focused on teaching professional project management concepts and their place within planning and development of a project. 
+**Overview:** This module focused on teaching professional project management concepts and their place within planning and development of a project. Throughout the semester, my group and I were tasked with creating a plan project using the taught management concepts.
 
 **Assessment** Working within a team, the aim of CMP308's assessment was to create a client pitch presentation and a project plan report for our assigned project, which was to create a network health monitoring application. My areas of the report focused on documenting the change management plan, the communications management plan, the cost management plan, and the procurement management plan for the project.
 
 **Grade:** A+
+
+</details>
+<details markdown = 1>
+<summary>CMP311 - Professional Project Development and Delivery </summary>
+  
+**Overview:** A follow on from CMP308, this module involved developing and delivering the projected that was planned the previous semester. During this time, my group and I created an application with Python that was aimed to help small businesses monitor their network.
+My role within the team was to help create the user interface of this app, which was done using PyQT, a Python library that allows for the handling of UI elements.
+
+**Assessment:** Aside from delivering the network health monitoring app, the assessment for this module involved creating a presentation and report that detailed how the group had met the client's brief.
+My area of the report covered the methodology used when creating the user interface. The full report can be found [here](https://encryptedsarah.github.io/coursework/CMP311_SGardiner_Report.pdf)
 
 </details>
