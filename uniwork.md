@@ -91,7 +91,7 @@ The GitHub repository for Snake can be found [here](https://github.com/Encrypted
 My role within the team was to help create the user interface of this app, which was done using PyQT, a Python library that allows for the handling of UI elements.
 
 **Assessment:** Aside from delivering the network health monitoring app, the assessment for this module involved creating a presentation and report that detailed how the group had met the client's brief.
-My area of the report covered the methodology used when creating the user interface. The full report can be found [here](https://encryptedsarah.github.io/coursework/CMP311_SGardiner_Report.pdf)
+My area of the report covered the methodology used when creating the user interface. The full report can be found <a href="/coursework/CMP311_SGardiner_Report.pdf" class="image fit" type="application/pdf"> here </a>
 
 **Grade:** A+
 
