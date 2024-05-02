@@ -27,7 +27,7 @@ subtitle: Here is some of the coursework I have completed while studying Ethical
 CMP314 focused on a wide veriety of networking concepts and introduced advanced technologies, methods, and protocols used by devices to communicate with eachother.
 
 **Assessment:**
-The assessment for this module involved conduscting a security evaluation of a network belonging to a fake company, Stark Inc. The requirements were to produce a report containing a detailed network diagram of the devices present on the network, a subnet table, an evaluation of any security weaknesses found, and a critical evaluation of the network design. My report for this assigment can be found [here](https://github.com/EncryptedSarah/encryptedsarah.github.io/blob/main/coursework/CMP314_SGardiner_Report.pdf)
+The assessment for this module involved conduscting a security evaluation of a network belonging to a fake company, Stark Inc. The requirements were to produce a report containing a detailed network diagram of the devices present on the network, a subnet table, an evaluation of any security weaknesses found, and a critical evaluation of the network design. My report for this assigment can be found <a href="/coursework/CMP314_SGardiner_Report.pdf" class="image fit" type="application/pdf"> here </a>
 
 **Grade:** A
 
@@ -46,7 +46,7 @@ This module involved learning advanced techniques used by Ethical Hackers to exa
 
 **Assessment:**
 To conduct a comprehensive web application penetration test of a website, and to produce a document explaining your methodology, findings, and evaluation of the process. I was given a sample website, belonging to a fake pizza restaurant, alongside access to a test user account. To complete the assessment, I used the industry-standard OWASP Web Security Testing Guide alongside tools and techniques demonstrated in the lab work.
-My assessment work can be found [here](https://encryptedsarah.github.io/coursework/SGardiner_CMP319_Web_App_Testing_Report.pdf)
+My assessment work can be found <a href="/coursework/SGardiner_CMP319_Web_App_Testing_Report.pdf" class="image fit" type="application/pdf"> here </a>
 
 **Grade:** A
 
@@ -60,15 +60,15 @@ The Advanced Ethical Hacking module focused on using scripting to automate hacki
 
 **Malware Analysis Assessment:**
 Worth 30% of CMP320's final grade, the malware analysis assessment involved using appropriate malware analysis tools and techniques to analyse a malicious sample, and to then provide the findings with a write up in the format of a white paper report. My report covers the investigation of a WannaCry payload.
-My report can be found [here](https://encryptedsarah.github.io/coursework/CMP320_SGardiner_Malware_Analysis_Report.pdf)
+My report can be found <a href="/coursework/CMP320_SGardiner_Malware_Analysis_Report.pdf" class="image fit" type="application/pdf"> here </a>
 
 **Grade:** A
 
 **Scripting Assessment:**
 The scripting assessment in CMP320 involved creating a script that included some aspect of Ethical Hacking, Digital Forensics, or Network Security.
 For my project, I chose to create a script that could parse through Python code and detect possibly malicious lines of code. Named 'Snake', this script allows for developers to check that libraries they are downloading using Pip are not malicious.
-My report on Snake can be found [here](https://encryptedsarah.github.io/coursework/SGardiner_CMP320_Report.pdf)
-The GitHub repository for Snake can be found [here](https://github.com/EncryptedSarah/snake)
+My report on Snake can be found <a href="/coursework/SGardiner_CMP320_Report.pdf" class="image fit" type="application/pdf"> here </a>
+The GitHub repository for Snake can be found [here](https://github.com/EncryptedSarah/snake) 
 
 **Grade:** A+
 
